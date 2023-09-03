@@ -11,6 +11,17 @@ feiyu downloader supports the download of HLS m3u8 video streams, Dash video str
 
 * Default selection of system agent, allowing custom agents
 
+### usage
+
+> 1、Download from [飞鱼视频下载助手](https://www.feiyudo.com/downloader)
+>
+> 2、Download from [Releases](https://github.com/shixinmuhuo/feiyu-downloader/releases)
+
+### supprt platform
+
+* Windows
+* macOS
+
 ### shot
 
 ![mainFrame](pic/mainFrame_en.png)

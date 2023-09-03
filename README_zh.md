@@ -14,6 +14,11 @@
 >
 > 2、通过github release下载最新版本[Releases](https://github.com/shixinmuhuo/feiyu-downloader/releases)
 
+### 支持平台
+
+* Windows
+* macOS
+
 ### 界面截图
 
 ![主页](pic/mainFrame.png)
